@@ -1,0 +1,6 @@
+1). Gccを4.x?にした。Mecabのインストール必要であった。
+2). EclipseをGarileoからIndigoに変更した。
+3). Java runtimeを最新のものにした。
+4). Ruby 1.9.3-p551をソースからコンパイルした。Openssl-develが要(Warning多かったが無事稼働）
+5). gemでSASSをインストールした。上記Ruby1.8.xx 以上でないとGemがインストールされていない為。
+6). yumでgitをインストール 
