@@ -1,0 +1,2 @@
+Windowsで、Gitのデスクトップクライアントを導入した。
+作成したRepositoryは、localWin7pc どうやって使うのかいまひとつ不明。
